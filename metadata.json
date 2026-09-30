@@ -1,0 +1,6 @@
+{
+  "name": "Royal Noor - Islamic Wedding Invitation",
+  "description": "An elegant royal Islamic Nikah marriage invitation card featuring sacred calligraphy, romantic couple portraits, ceremonies itinerary, and musical celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
